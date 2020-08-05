@@ -1,8 +1,8 @@
 <?php
-$servername="10.153.214.138";
-$username="web3";
-$password="web3";
-$dbname="p1_equipt_db";
+$servername="";
+$username="";
+$password="";
+$dbname="";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
